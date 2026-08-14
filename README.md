@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola, soy [Tu Nombre]! 👋
 
-<!--
-**zakkdruzer/zakkdruzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web en formación, enfocado en frontend y en la creación de interfaces modernas con Vue.js, React y JavaScript.
 
-Here are some ideas to get you started:
+## Sobre mí
+Soy estudiante de bootcamp y estoy desarrollando habilidades en desarrollo web full-stack. Me interesa construir proyectos funcionales, bien organizados y con buenas prácticas de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- HTML5
+- CSS3 / SCSS
+- JavaScript
+- Vue.js
+- React
+- Node.js
+- Express
+- MongoDB
+- Git y GitHub
+
+## Proyectos
+- [Proyecto 1](link): breve descripción.
+- [Proyecto 2](link): breve descripción.
+- [Proyecto 3](link): breve descripción.
+
+## Contacto
+- GitHub: [tu usuario](https://github.com/tu_usuario)
+- LinkedIn: [tu perfil]
+- Correo: tu correo
