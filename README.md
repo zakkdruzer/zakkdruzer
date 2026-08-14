@@ -1,4 +1,4 @@
-# ¡Hola, soy José Gajardo alias Zakkdruzer! 👋
+# ¡Hola, soy José Gajardo / Zakkdruzer! 👋
 
 Desarrollador web en formación, enfocado en frontend y en la creación de interfaces modernas con Vue.js, React y JavaScript.
 
