@@ -19,7 +19,6 @@
 ## 👨‍💻 Sobre mí
 
 ```yaml
-yo:
   nombre: "José Gajardo Soto"
   perfil: "Desarrollador Frontend en formación"
   ubicación: "Chile"
