@@ -148,12 +148,15 @@ Me interesa continuar avanzando hacia el desarrollo full-stack, mejorar mis habi
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://github.com/zakkdruzer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://zakkdruzer.github.io/zakkdruzer.github.io/">
-    <img src="https://img.shields.io/badge/Portafolio-42B883?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+<a href="https://github.com/zakkdruzer">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/jose-ignacio-gajardo-soto/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://zakkdruzer.github.io/zakkdruzer.github.io/">
+<img src="https://img.shields.io/badge/Portafolio-42B883?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
+</a>
 </p>
 
 <p align="center">
