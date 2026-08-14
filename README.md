@@ -140,12 +140,7 @@ Me interesa continuar avanzando hacia el desarrollo full-stack, mejorar mis habi
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zakkdruzer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakkdruzer&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Lenguajes más utilizados" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakkdruzer&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakkdruzer&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad de GitHub" />
 </p>
 
 ---
